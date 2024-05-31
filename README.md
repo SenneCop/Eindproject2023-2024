@@ -1,1 +1,4 @@
 # Eindproject2023-2024
+Ik heb voor de richting Industriële Informatie- en Communicatietechnologie (IT) gekozen omdat deze mij altijd heeft geïnteresseerd. Mijn neef heeft deze richting gevolgd en ik keek altijd naar hem op, wat mijn interesse verder heeft aangewakkerd.
+Voor mijn eindproject ontwikkel ik een "Sofa Swipe Systeem" voor een tv-show. Het doel is dat de quizmaster kan bepalen wie met wie moet samenwerken. Bijvoorbeeld in ronde drie werken twee mensen samen en strijden tegen twee anderen. Wat de quizmaster invoert, moeten de stoelen automatisch uitvoeren. Ik kwam op het idee van dit project omdat een kennis van mij een probleem/idee had van zijn volgende tv-show.
+Met oprechte dankbaarheid wil ik mijn leerkrachten Wim Baert, Mieke Herreman en Sam Wesemael bedanken voor hun hulp in de klas. Zeker niet te vergeten Renaat van Ginderachter van De Hofleveranciers BVBA voor het idee voor zijn volgende tv-show.
